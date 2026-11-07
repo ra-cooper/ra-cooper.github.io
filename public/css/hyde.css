@@ -276,7 +276,7 @@ a.sidebar-nav-item:focus {
 .panel img {
   display: block;
   width: 100%;
-  height: 320px;
+  height: 240px;
   object-fit: cover;
   margin: 0;
 }
@@ -303,11 +303,11 @@ a.sidebar-nav-item:focus {
 
 .panel img {
   width: 360px;
-  height: 320px;
+  height: 240px;
   flex-shrink: 0;
 }
 
 @media (max-width: 30em) {
   .panel { display: block; }
-  .panel img { width: 100%; height: 160px; }
+  .panel img { width: 100%; height: 240px; }
 }
