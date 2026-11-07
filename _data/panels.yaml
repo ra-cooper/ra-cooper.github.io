@@ -1,14 +1,14 @@
 - title: First project
   text: A short description of what this links to.
-  image: /public/images/example_fit.png
+  image: /public/images/o_low_madd_evol_duo.pdf
   url: https://example.com/first
 
 - title: Second project
   text: Another short description.
-  image: /public/images/panel2.jpg
+  image: /public/images/BD_O3_tracks_updated.png
   url: https://example.com/second
 
 - title: Third project
   text: And one more.
-  image: /public/images/panel3.jpg
+  image: /public/images/example_fit.png
   url: https://example.com/third
