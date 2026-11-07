@@ -1,14 +1,14 @@
-- title: First project
+- title: "The Physical Conditions of Low-Mass Galaxies at z = 3.5 - 7.0 from JWST Spectroscopy: The Behaviour of Spectral Line Ratios with Burstiness"
   text: A short description of what this links to.
   image: /public/images/o_low_mass_evol_duo.png
   url: https://example.com/first
 
-- title: Second project
+- title: "Pseudo Little Red Dot: an Active Black Hole Embedded in a Dense and Dusty, Metal-Poor Starburst Galaxy at z=5.96"
   text: Another short description.
   image: /public/images/BD_O3_tracks_updated.png
   url: https://example.com/second
 
-- title: Third project
+- title: "High-velocity Outflows in [O III] Emitters at 2.5 < z < 9 from JWST NIRSpec Medium-resolution Spectroscopy"
   text: And one more.
   image: /public/images/example_fit.png
   url: https://example.com/third
