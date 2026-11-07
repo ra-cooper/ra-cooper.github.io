@@ -252,7 +252,7 @@ a.sidebar-nav-item:focus {
 /* Homepage panels */
 .panels {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: 1fr;
   gap: 1.5rem;
   margin-top: 2rem;
 }
@@ -295,3 +295,4 @@ a.sidebar-nav-item:focus {
   font-size: 0.9rem;
   color: #717171;
 }
+
