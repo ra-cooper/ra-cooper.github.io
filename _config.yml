@@ -1,7 +1,7 @@
 # Setup
 title:            Ryan Cooper
 tagline:          'PhD Candidate - Kapteyn Institute'
-description:      'A description of your site'
+description:      'PhD Candidate - Kapteyn Institute'
 url:              https://ra-cooper.github.io
 baseurl:          ""
 
@@ -17,4 +17,4 @@ plugins:
   - jekyll-gist
 
 # Custom vars
-version:          2.0.0
+version:          1.0.0
