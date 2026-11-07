@@ -1,0 +1,14 @@
+- title: First project
+  text: A short description of what this links to.
+  image: /public/images/panel1.jpg
+  url: https://example.com/first
+
+- title: Second project
+  text: Another short description.
+  image: /public/images/panel2.jpg
+  url: https://example.com/second
+
+- title: Third project
+  text: And one more.
+  image: /public/images/panel3.jpg
+  url: https://example.com/third
