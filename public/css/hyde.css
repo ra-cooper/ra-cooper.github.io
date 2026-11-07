@@ -262,6 +262,13 @@ a.sidebar-nav-item:focus {
   margin-top: 2rem;
 }
 
+.panels_lower {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
 .panel {
   display: block;
   border: 1px solid #e5e5e5;
