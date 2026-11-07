@@ -1,14 +1,30 @@
-- title: "The Physical Conditions of Low-Mass Galaxies at z = 3.5 - 7.0 from JWST Spectroscopy: The Behaviour of Spectral Line Ratios with Burstiness"
-  text: Cooper, R. A., Caputi, K. I., et al., (2026) - Submitted to ApJ
-  image: /public/images/o_low_mass_evol_duo.png
-  url: https://scixplorer.org/abs/2026arXiv260901205C/abstract
 
-- title: "Pseudo Little Red Dot: an Active Black Hole Embedded in a Dense and Dusty, Metal-Poor Starburst Galaxy at z=5.96"
-  text: Caputi, K. I., Cooper, R. A., et al., (2026) - ApJ, 1007, 203
-  image: /public/images/BD_O3_tracks_updated.png
-  url: https://iopscience.iop.org/article/10.3847/1538-4357/ae80b9
 
-- title: "High-velocity Outflows in [O III] Emitters at 2.5 < z < 9 from JWST NIRSpec Medium-resolution Spectroscopy"
-  text: Cooper, R., A., Caputi, K. I., et al., (2025) - ApJ 994, 102
-  image: /public/images/example_fit.png
-  url: https://iopscience.iop.org/article/10.3847/1538-4357/ae0580
+- heading: Current Papers
+  panels:
+  - title: "The Physical Conditions of Low-Mass Galaxies at z = 3.5 - 7.0 from JWST Spectroscopy: The Behaviour of Spectral Line Ratios with Burstiness"
+    text: Cooper, R. A., Caputi, K. I., et al., (2026) - Submitted to ApJ
+    image: /public/images/o_low_mass_evol_duo.png
+    url: https://scixplorer.org/abs/2026arXiv260901205C/abstract
+
+  - title: "Pseudo Little Red Dot: an Active Black Hole Embedded in a Dense and Dusty, Metal-Poor Starburst Galaxy at z=5.96"
+    text: Caputi, K. I., Cooper, R. A., et al., (2026) - ApJ, 1007, 203
+    image: /public/images/BD_O3_tracks_updated.png
+    url: https://iopscience.iop.org/article/10.3847/1538-4357/ae80b9
+
+  - title: "High-velocity Outflows in [O III] Emitters at 2.5 < z < 9 from JWST NIRSpec Medium-resolution Spectroscopy"
+    text: Cooper, R., A., Caputi, K. I., et al., (2025) - ApJ 994, 102
+    image: /public/images/example_fit.png
+    url: https://iopscience.iop.org/article/10.3847/1538-4357/ae0580
+
+- heading: Other projects
+  panels:
+    - title: Fourth item
+      text: Description of the fourth link.
+      image: /public/images/panel4.jpg
+      url: https://example.com/fourth
+
+    - title: Fifth item
+      text: Description of the fifth link.
+      image: /public/images/panel5.jpg
+      url: https://example.com/fifth

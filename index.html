@@ -13,11 +13,11 @@ galaxies using the deepest observations from JWST.
 </div>
 
 
-<h2 class="panels-heading">See my recent papers:</h2>
-
+{% for section in site.data.panels %}
+<h2 class="panels-heading">{{ section.heading }}</h2>
 
 <div class="panels">
-  {% for panel in site.data.panels %}
+  {% for panel in section.panels %}
   <a class="panel" href="{{ panel.url }}" target="_blank" rel="noopener">
     <img src="{{ panel.image | relative_url }}" alt="{{ panel.title }}">
     <div class="panel-body">
@@ -27,17 +27,4 @@ galaxies using the deepest observations from JWST.
   </a>
   {% endfor %}
 </div>
-
-<h2 class="panels-heading">Other projects:</h2>
-
-<div class="panels_lower">
-  {% for panel in site.data.panels %}
-  <a class="panel" href="{{ panel.url }}" target="_blank" rel="noopener">
-    <img src="{{ panel.image | relative_url }}" alt="{{ panel.title }}">
-    <div class="panel-body">
-      <h3>{{ panel.title }}</h3>
-      <p>{{ panel.text }}</p>
-    </div>
-  </a>
-  {% endfor %}
-</div>
+{% endfor %}
