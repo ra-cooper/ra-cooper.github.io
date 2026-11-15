@@ -19,7 +19,7 @@
 
 - heading: Other projects
   panels:
-    - title: Fourth item
+    - title: NIRCam WFSS Data Reduction and Line Finding
       text: Description of the fourth link.
       image: /public/images/panel4.jpg
       url: https://example.com/fourth
