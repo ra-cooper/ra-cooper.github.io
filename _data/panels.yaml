@@ -22,7 +22,7 @@
     - title: NIRCam WFSS Data Reduction and Line Finding
       text: Description of the fourth link.
       image: /public/images/panel4.jpg
-      url: https://example.com/fourth
+      url: /wfss/
 
     - title: Fifth item
       text: Description of the fifth link.
