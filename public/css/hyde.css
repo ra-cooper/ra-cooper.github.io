@@ -342,3 +342,22 @@ body .sidebar {
   background-size: cover;
   background-position: center;
 }
+
+/* Sidebar icons */
+.sidebar-icons {
+  display: flex;
+  gap: 1.25rem;
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
+
+.sidebar-icons a {
+  color: rgba(255, 255, 255, 0.7);
+  transition: color 0.15s ease;
+}
+
+.sidebar-icons a:hover,
+.sidebar-icons a:focus {
+  color: #fff;
+  text-decoration: none;
+}
