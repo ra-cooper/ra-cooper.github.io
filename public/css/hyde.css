@@ -361,3 +361,7 @@ body .sidebar {
   color: #fff;
   text-decoration: none;
 }
+
+.sidebar-about h1 {
+  font-family: Georgia, "Times New Roman", serif;
+}
