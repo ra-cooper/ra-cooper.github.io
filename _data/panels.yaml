@@ -24,7 +24,7 @@
       image: /public/images/wfss_reduction_small.png
       url: /wfss/
 
-    - title: Fifth item
-      text: Description of the fifth link.
-      image: /public/images/panel5.jpg
-      url: https://example.com/fifth
+    - title: Photoionisation modelling with cloudy
+      text: Work in progress python wrapper for working with cloudy outputs.
+      image: /public/images/stellar_models.png
+      url: https://github.com/ra-cooper/cloudy_tools/tree/main
