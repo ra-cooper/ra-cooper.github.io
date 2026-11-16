@@ -20,8 +20,8 @@
 - heading: Other projects
   panels:
     - title: NIRCam WFSS Data Reduction and Line Finding
-      text: Description of the fourth link.
-      image: /public/images/panel4.jpg
+      text: Work in progress pipeline for the reduction and extraction of NIRCam WFSS Spectra.
+      image: /public/images/wfss_reduction_small.png
       url: /wfss/
 
     - title: Fifth item
