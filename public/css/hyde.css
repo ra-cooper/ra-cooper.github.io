@@ -368,3 +368,30 @@ body .sidebar {
 .sidebar-about h1 {
   font-family: Georgia, "Times New Roman", serif;
 }
+
+/* Floating images */
+.float-left {
+  float: left;
+  width: 40%;
+  margin: 0.25rem 1.5rem 1rem 0;
+}
+
+.float-right {
+  float: right;
+  width: 40%;
+  margin: 0.25rem 0 1rem 1.5rem;
+}
+
+.clear {
+  clear: both;
+}
+
+/* On phones, stack instead of floating */
+@media (max-width: 40em) {
+  .float-left,
+  .float-right {
+    float: none;
+    width: 100%;
+    margin: 1rem 0;
+  }
+}

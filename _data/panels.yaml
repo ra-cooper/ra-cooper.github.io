@@ -27,4 +27,4 @@
     - title: Photoionisation modelling with cloudy
       text: Work in progress python wrapper for working with cloudy outputs.
       image: /public/images/stellar_models.png
-      url: https://github.com/ra-cooper/cloudy_tools/tree/main
+      url: /cloudy/
