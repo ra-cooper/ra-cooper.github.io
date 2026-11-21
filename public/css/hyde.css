@@ -395,3 +395,31 @@ body .sidebar {
     margin: 1rem 0;
   }
 }
+
+/* Image beside vertically centered text */
+.media {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.media img {
+  width: 35%;
+  flex-shrink: 0;
+  margin: 0;
+}
+
+.media.reverse {
+  flex-direction: row-reverse;
+}
+
+@media (max-width: 40em) {
+  .media,
+  .media.reverse {
+    flex-direction: column;
+  }
+  .media img {
+    width: 100%;
+  }
+}
