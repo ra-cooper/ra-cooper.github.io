@@ -289,8 +289,9 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 100%;
   height: 240px;
-  object-fit: cover;
   margin: 0;
+  object-fit: contain;
+  background: transparent;
 }
 
 .panel-body {
@@ -317,6 +318,8 @@ a.sidebar-nav-item:focus {
   width: 360px;
   height: 240px;
   flex-shrink: 0;
+  object-fit: contain;
+  background: transparent;
 }
 
 @media (max-width: 30em) {
