@@ -404,10 +404,19 @@ body .sidebar {
   margin: 1.5rem 0;
 }
 
-.media img {
-  width: 35%;
-  flex-shrink: 0;
+.media > :first-child {
+  flex: 0 0 var(--img-width, 40%);
   margin: 0;
+}
+
+.media > :first-child img {
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+
+.media > :last-child {
+  flex: 1;
 }
 
 .media.reverse {
@@ -419,7 +428,8 @@ body .sidebar {
   .media.reverse {
     flex-direction: column;
   }
-  .media img {
+  .media > :first-child {
+    flex: none;
     width: 100%;
   }
 }
